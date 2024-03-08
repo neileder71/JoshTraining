@@ -3,8 +3,6 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
-.test {
-    position: relative;
-    left: 500px;
-    top: 200px;
+h1{
+    color:Green;
 }
